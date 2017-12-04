@@ -4,7 +4,11 @@ body {
     font:15px/26px 'Open-sans', Verdana, sans-serif;
     color:#ffffff;
     font-weight:400;
+<<<<<<< HEAD
 	background:DarkGreen;
+=======
+	background:	#003A6C;
+>>>>>>> parent of a7e180a... Color change
 }
 
 /* .clearfix:after {
